@@ -44,4 +44,4 @@ Your users should be able to:
 
 ---
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;A link to a live page with the result is avaible <a href="magaliais.github.io/single-price-grid-component" target="_blank">here</a>.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;A link to a live page with the result is avaible <a href="https://magaliais.github.io/single-price-grid-component/" target="_blank">here</a>.</p>
