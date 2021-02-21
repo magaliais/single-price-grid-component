@@ -8,16 +8,16 @@
 
     --light-gray: hsl(204, 43%, 93%);
     --grayish-blue: hsl(218, 22%, 67%);
-
 }
 
 
 body {
     background-color: var(--light-gray);
+    margin-top: 5rem;
 }
 
 main {
-    margin: 5rem auto 4rem;
+    margin: 5rem auto 0;
     width: 330px;
 
     box-sizing: border-box;
@@ -140,6 +140,7 @@ footer {
     margin: auto;
 
     text-align: center;
+    font-size: 12px;
 
     color: var(--grayish-blue);
 }
